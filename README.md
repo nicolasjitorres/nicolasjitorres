@@ -35,4 +35,4 @@
 <p align="center">
 <a href="https://https://www.linkedin.com/in/nicolasjitorres/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="nicolasjitorres" height="30" width="30" /></a>&nbsp;
 <a href="mailto:nicoignacio123@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="nicoignacio123" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/nicotorres1123" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
+<a href="http://discord.com/users/nicotorres1123" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" alt="nicotorres1123" height="40" width="30" /></a>&nbsp;
