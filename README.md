@@ -1,4 +1,4 @@
-## Hola mundo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width=35/>
+## Hola mundo! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif?raw=true" width=35px height=35px/>
 
 ## 📖 Sobre mi
 
