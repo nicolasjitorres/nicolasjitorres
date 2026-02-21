@@ -12,7 +12,7 @@ Buscando rol como **Backend** o **Full Stack Developer**.
 
 ### 🏥 Obra Social Almedin
 
-Sistema completo de gestión para una obra social médica — backend REST + SPA con tres portales diferenciados por rol.
+Sistema completo de gestión para una obra social médica — backend REST + SPA con tres portales diferenciados por rol. Permite gestionar turnos médicos, horarios de especialistas, penalidades por ausencia y notificaciones en tiempo real vía SSE.
 
 **Backend** · Quarkus 3 · Java 17 · PostgreSQL · Arquitectura hexagonal · JWT RS256 · SSE · 94 tests · CI/CD en GitHub Actions · Deploy en Render
 
@@ -66,4 +66,5 @@ App móvil desarrollada en equipo de 3 personas para conectar estudiantes con se
 ## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nicolasjitorres-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasjitorres/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-web-c9a84c)](https://portfolio-nine-beta-m3b6wtgxz7.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-nicoignacio123@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:nicoignacio123@gmail.com)
