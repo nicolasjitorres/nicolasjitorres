@@ -1,39 +1,69 @@
-## Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif?raw=true" width=35px height=35px/>
+# Nicolás Torres
 
-## 📖 About Me
+Desarrollador Full Stack con foco en backend. Estudiante de Licenciatura en Sistemas (5to año, 32/43 materias) con más de 4 años programando y experiencia laboral en desarrollo de software.
 
-- 💻 I am a Full Stack Developer focused on creating solutions for everyday problems.
-- 🌱 Currently learning about UX/UI fundamentals.
-- 💬 Let's talk about football ⚽ and development ⌨️
-- 😄 Up for a chess match? ♟️
-- ⚡ Fail. Learn. Repeat.
+Me interesa construir sistemas con arquitectura pensada, no solo código que funciona. En mis proyectos aplico patrones reales: arquitecturas, seguridad basada en roles, testing en múltiples capas y CI/CD automatizado.
 
-## 👨🏻‍💻 Technologies & Tools
+Buscando rol como **Backend** o **Full Stack Developer**.
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" width=35px>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" width=35px>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" width=35px>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" width=35px>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" width=35px>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" width=35px>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Redux.svg" width=35px>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" width=35px>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" width=35px>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" width=35px>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width=35px>
-</p>
+---
 
-## 📊 My Stats
+## Proyectos destacados
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasjitorres&hide=contribs,prs&show=prs_merged&theme=dark&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjitorres&layout=compact&theme=dark)
+### 🏥 Obra Social Almedin
 
-## 📞 Contact
+Sistema completo de gestión para una obra social médica — backend REST + SPA con tres portales diferenciados por rol.
 
-<p align="center">
-<a href="https://www.linkedin.com/in/nicolasjitorres/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="nicolasjitorres" height="30" width="30" /></a>&nbsp;
-<a href="mailto:nicoignacio123@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="nicoignacio123" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/nicotorres1123" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" alt="nicotorres1123" height="40" width="30" /></a>&nbsp;
-</p>
+**Backend** · Quarkus 3 · Java 17 · PostgreSQL · Arquitectura hexagonal · JWT RS256 · SSE · 94 tests · CI/CD en GitHub Actions · Deploy en Render
 
+**Frontend** · React 18 · TypeScript · Vite · Zustand · TanStack Query · Sistema de diseño propio · Dark/light mode · Deploy en Vercel
+
+[![Backend](https://img.shields.io/badge/Backend-repo-181717?logo=github)](https://github.com/nicolasjitorres/obra-social-almedin-v2-backend)
+[![Frontend](https://img.shields.io/badge/Frontend-repo-181717?logo=github)](https://github.com/nicolasjitorres/obra-social-almedin-v2-frontend)
+[![Demo](https://img.shields.io/badge/Demo-live-brightgreen?logo=vercel)](https://obra-social-almedin-v2-frontend.vercel.app)
+[![API](https://img.shields.io/badge/API-Swagger-85EA2D?logo=swagger&logoColor=black)](https://obra-social-almedin-v2-backend-latest.onrender.com/q/swagger-ui)
+
+---
+
+### 📱 SDE-Conecta *(colaboración)*
+
+App móvil desarrollada en equipo de 3 personas para conectar estudiantes con servicios universitarios.
+
+**React Native** · **Expo** · **JavaScript** · **Firebase** · **Trabajo colaborativo con Git**
+
+[![Repo](https://img.shields.io/badge/Repo-181717?logo=github)](https://github.com/lucianafigueroa/SDE-Conecta)
+
+
+---
+
+## Stack
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-3-4695EB?logo=quarkus&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
+
+---
+
+## Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nicolasjitorres-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasjitorres/)
+[![Gmail](https://img.shields.io/badge/Gmail-nicoignacio123@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:nicoignacio123@gmail.com)
