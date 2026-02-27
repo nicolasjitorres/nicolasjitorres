@@ -66,5 +66,5 @@ App móvil desarrollada en equipo de 3 personas para conectar estudiantes con se
 ## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nicolasjitorres-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasjitorres/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-web-c9a84c)](https://portfolio-nine-beta-m3b6wtgxz7.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-nicoignacio123@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:nicoignacio123@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-web-c9a84c)](https://www.nicolastorres.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-nicolas@nicolastorres.dev-EA4335?logo=gmail&logoColor=white)](mailto:nicolas@nicolastorres.dev)
