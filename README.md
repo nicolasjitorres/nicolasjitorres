@@ -20,7 +20,7 @@ Sistema completo de gestión para una obra social médica — backend REST + SPA
 
 [![Backend](https://img.shields.io/badge/Backend-repo-181717?logo=github)](https://github.com/nicolasjitorres/obra-social-almedin-v2-backend)
 [![Frontend](https://img.shields.io/badge/Frontend-repo-181717?logo=github)](https://github.com/nicolasjitorres/obra-social-almedin-v2-frontend)
-[![Demo](https://img.shields.io/badge/Demo-live-brightgreen?logo=vercel)](https://obra-social-almedin-v2-frontend.vercel.app)
+[![Demo](https://img.shields.io/badge/Demo-live-brightgreen?logo=vercel)](https://almedin.nicolastorres.dev)
 [![API](https://img.shields.io/badge/API-Swagger-85EA2D?logo=swagger&logoColor=black)](https://obra-social-almedin-v2-backend-latest.onrender.com/q/swagger-ui)
 
 ---
