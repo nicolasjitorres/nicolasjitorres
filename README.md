@@ -1,6 +1,12 @@
-# Nicolás Torres
+<p align="center">
+  <img src="./assets/README_header.png" alt="Nicolás Torres — Backend Developer · Founder de Almacená" width="100%" />
+</p>
 
-**Backend Developer** · Founder de [Almacená](REEMPLAZAR_LINK_ALMACENA)
+<p align="center">
+  <a href="https://nicolastorres.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=3DDC84&center=true&vCenter=true&width=680&height=42&lines=%24+Backend+Developer;%24+Founder+de+Almacen%C3%A1+%E2%86%92+SaaS+en+producci%C3%B3n;%24+Java+%C2%B7+Spring+%C2%B7+Quarkus+%C2%B7+Node.js;%24+14+comercios+us%C3%A1ndolo+a+diario" alt="Typing SVG" />
+  </a>
+</p>
 
 Desarrollador Backend (Java, Spring, Quarkus, Node.js) y fundador de **Almacená**, un SaaS de gestión y pagos para comercios que hoy usan 14 negocios en Argentina. Estudiante avanzado de Licenciatura en Sistemas de Información (UNSE, 5.º año). Me muevo cómodo en todo el ciclo: diseñar, asegurar y operar sistemas en producción. Inglés B2.
 
@@ -16,7 +22,7 @@ SaaS multi-tenant de gestión y pagos para comercios, usado a diario por 14 nego
 
 **Stack** · Node.js · Fastify · Prisma · PostgreSQL · Next.js · React · TypeScript · WebSockets · Mercado Pago · Docker
 
-[![Sitio](https://img.shields.io/badge/Sitio-almacena-3DDC84?logo=vercel&logoColor=white)](https://almacena.com.ar)
+[![Sitio](https://img.shields.io/badge/Sitio-almacena-3DDC84?logo=vercel&logoColor=white)](REEMPLAZAR_LINK_ALMACENA)
 ![Estado](https://img.shields.io/badge/estado-en_producci%C3%B3n-3DDC84)
 ![Comercios](https://img.shields.io/badge/comercios_activos-14-blue)
 
@@ -76,6 +82,22 @@ App móvil desarrollada en equipo de 3 personas para conectar estudiantes con se
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
+
+---
+
+## GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nicolasjitorres&show_icons=true&hide_border=true&count_private=true&title_color=3ddc84&icon_color=3ddc84&text_color=93a89d&bg_color=0D1210" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjitorres&layout=compact&hide_border=true&langs_count=8&title_color=3ddc84&text_color=93a89d&bg_color=0D1210" alt="Top languages" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolasjitorres/nicolasjitorres/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Snake de contribuciones" src="https://raw.githubusercontent.com/nicolasjitorres/nicolasjitorres/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
