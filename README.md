@@ -88,8 +88,8 @@ App móvil desarrollada en equipo de 3 personas para conectar estudiantes con se
 ## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nicolasjitorres&show_icons=true&hide_border=true&count_private=true&title_color=3ddc84&icon_color=3ddc84&text_color=93a89d&bg_color=0D1210" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjitorres&layout=compact&hide_border=true&langs_count=8&title_color=3ddc84&text_color=93a89d&bg_color=0D1210" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=nicolasjitorres&show_icons=true&hide_border=true&count_private=true&title_color=3ddc84&icon_color=3ddc84&text_color=93a89d&bg_color=0D1210" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nicolasjitorres&layout=compact&hide_border=true&langs_count=8&title_color=3ddc84&text_color=93a89d&bg_color=0D1210" alt="Top languages" />
 </p>
 
 <p align="center">
